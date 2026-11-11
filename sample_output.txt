@@ -1,0 +1,22 @@
+Example 1: Addition
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter your choice: 1
+How many numbers do you want to enter? 4
+Enter the numbers: 10.5 20.5 30 40
+Result = 101.00
+
+
+Example 2: Division
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter your choice: 4
+How many numbers do you want to enter? 3
+Enter the numbers: 100 2 2
+Result = 25.00
